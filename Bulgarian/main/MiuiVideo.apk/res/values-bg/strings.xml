@@ -47,7 +47,7 @@
   <string name="app_wifi_mode">Wifi автоъпдейт</string>
   <string name="app_wifi_mode_summary">Когато сте в режим на WiFi, автоматично обнови до последната версия.</string>
   <string name="authenticated_failed">Неуспешно вписване</string>
-  <string name="authenticating">Проверка…</string>
+  <string name="authenticating">Удостоверяване</string>
   <string name="authenticating_manually">Грешка при удостоверяване</string>
   <string name="average_score">Рейтинг</string>
   <string name="avg_score">%.1f</string>
@@ -178,7 +178,7 @@
   <string name="info_video_loading">Зарежда се…</string>
   <string name="init">Init</string>
   <string name="install_apk">Инсталиране</string>
-  <string name="install_comfirm">Install</string>
+  <string name="install_comfirm">Инсталирай</string>
   <string name="install_plugin">Инсталирайте Плъгин</string>
   <string name="introduce">Резюме</string>
   <string name="join_alert_title">Присъедини се към вътрешен тест.</string>
@@ -268,8 +268,6 @@
   <string name="original_price">Оригинална цена</string>
   <string name="other_info">Други</string>
   <string name="other_setting">Други</string>
-  <string name="path_develop_settings">System App/Video/Develop Settings</string>
-  <string name="path_settings">System App/Video/Settings</string>
   <string name="pause">Пауза</string>
   <string name="pay_record">Запис на плащане</string>
   <string name="percent_status">%.1f%%</string>
@@ -346,6 +344,7 @@
   <string name="subscribe">Абонамент</string>
   <string name="suffix_countdown">секунди</string>
   <string name="system_setting">Системни настройки</string>
+  <string name="tab_loading">...</string>
   <string name="temp_play_history_button_label">Покажи история</string>
   <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">Възпроизвеждането започва</string>
@@ -379,6 +378,7 @@
   <string name="user_tab">Мои приложения</string>
   <string name="version_select">Избор на версия</string>
   <string name="version_select_summary">Избор на алфа, за програмисти, или стабилна версия.</string>
+  <string name="vertical_line"> | </string>
   <string name="video">Видео</string>
   <string name="video_app_update">Обнови</string>
   <string name="video_bbs">Присъедини се</string>
@@ -494,7 +494,7 @@
   <string name="vp_using_4_3">Принудително 4:3</string>
   <string name="vp_video_bad_network_condition">Лоша интернет връзка. Опитайте по-късно.</string>
   <string name="vp_video_invalid_cp_info">Невалидна информация за видеодоставчик, моля, рестартирайте приложението.</string>
-  <string name="vp_video_loading">Зарежда се....</string>
+  <string name="vp_video_loading">Зарежда се</string>
   <string name="vp_video_plugin_installation">Инсталиране %1$s…</string>
   <string name="waiting_to_download">Изчаква</string>
   <string name="wasu">Wasu</string>
